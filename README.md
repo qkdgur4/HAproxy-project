@@ -1,2 +1,2 @@
 # Haproxy-project
-리눅스 Haproxy
+리눅스 HAproxy
